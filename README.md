@@ -2,7 +2,7 @@
 
 Olá meu nome é Estevão 
 
-No presente momento estou estudando na [Alura] (https://www.alura.com.br)
+No presente momento estou estudando na [Alura](https://www.alura.com.br)
 
 ▫Estou me desenvolvendo na linguagem JavaScript
 
